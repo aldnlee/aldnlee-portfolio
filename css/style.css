@@ -62,7 +62,6 @@ body
   radial-gradient(at 25% 0%, #8F1FFF 0px, transparent 50%),
   radial-gradient(at 64% 0%, #55abff 0px, transparent 50%);
   height: 768px;
-  width: 1366px;
   justify-content: center;
   align-items: top;
 }
